@@ -1,0 +1,31 @@
+type Station{
+    id: ID!
+    name: String!
+    code: String!
+    lines: [Line]
+}
+
+
+type Line{
+    id: ID!
+    line: String!
+    stations: [Station]
+}
+
+type Query{
+    station(id: String!): Station
+    stationByCode(code: String!):[Station]
+    line(id: Int!): [Line]
+    lines: [Line]
+    stations: [Station]
+    stationEither(either: String):[Station]
+}
+
+
+
+type Mutation{
+    createStation(id: String!, name:String!, code:String!,line:String): Station
+    createLine(id: String!, line: String!): Line
+    deleteStation(id: String!): Boolean
+}
+

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "line": "Eastern"
+  },
+  {
+    "id": "2",
+    "line": "Southern"
+  },
+  {
+    "id": "3",
+    "line": "Western"
+  },
+  {
+    "id": "4",
+    "line": "Onehunga"
+  },
+  {
+    "id": "5",
+    "line": "Northern Busway"
+  },
+  {
+    "id": "6",
+    "line": "Airport Link"
+  }
+]
