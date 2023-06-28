@@ -2,67 +2,67 @@
 	{
 		"id": "1",
 		"name": "Hibiscus Coast",
-		"line": [5],
+		"line": ["5"],
 		"code": "HBC"
 	},
 	{
 		"id": "2",
 		"name": "Albany",
-		"line": [5],
+		"line": ["5"],
 		"code": "ALB"
 	},
 	{
 		"id": "3",
 		"name": "Constellation",
-		"line": [5],
+		"line": ["5"],
 		"code": "CST"
 	},
 	{
 		"id": "4",
 		"name": "Sunnynook",
-		"line": [5],
+		"line": ["5"],
 		"code": "SNY"
 	},
 	{
 		"id": "5",
 		"name": "Smales Farm",
-		"line": [5],
+		"line": ["5"],
 		"code": "SMF"
 	},
 	{
 		"id": "6",
 		"name": "Akoranga",
-		"line": [5],
+		"line": ["5"],
 		"code": "AKO"
 	},
 	{
 		"id": "7",
 		"name": "Victoria Park",
-		"line": [5],
+		"line": ["5"],
 		"code": "VCP"
 	},
 	{
 		"id": "8",
 		"name": "Lower Albert Street",
-		"line": [5],
+		"line": ["5"],
 		"code": "LAS"
 	},
 	{
 		"id": "9",
 		"name": "Britomart",
-		"line": [1,2,3,4,5],
+		"line": ["1","2","3","4","5"],
 		"code": "BRT"
 	},
 	{
 		"id": "10",
 		"name": "Swanson",
-		"line": [3],
+		"line": ["3"],
 		"code": "SWN"
 	},
 	{
 		"id": "11",
 		"name": "Ranui",
-		"line": [3],
+		"line": ["3"],
 		"code": "RAN"
 	},
 	{
@@ -74,181 +74,181 @@
 	{
 		"id": "13",
 		"name": "Henderson",
-		"line": [3],
+		"line": ["3"],
 		"code": "HEN"
 	},
 	{
 		"id": "14",
 		"name": "Sunnyvale",
-		"line": [3],
+		"line": ["3"],
 		"code": "SNV"
 	},
 	{
 		"id": "15",
 		"name": "Glen Eden",
-		"line": [3],
+		"line": ["3"],
 		"code": "GLE"
 	},
 	{
 		"id": "16",
 		"name": "Fruitvale Rd",
-		"line": [3],
+		"line": ["3"],
 		"code": "FVR"
 	},
 	{
 		"id": "17",
 		"name": "New Lynn",
-		"line": [3],
+		"line": ["3"],
 		"code": "NWL"
 	},
 	{
 		"id": "18",
 		"name": "Avondale",
-		"line": [3],
+		"line": ["3"],
 		"code": "AVO"
 	},
 	{
 		"id": "19",
 		"name": "Mt Albert",
-		"line": [3],
+		"line": ["3"],
 		"code": "MTA"
 	},
 	{
 		"id": "20",
 		"name": "Baldwin Ave",
-		"line": [3],
+		"line": ["3"],
 		"code": "BLD"
 	},
 	{
 		"id": "21",
 		"name": "Morningside",
-		"line": [3],
+		"line": ["3"],
 		"code": "MRN"
 	},
 	{
 		"id": "22",
 		"name": "Kingsland",
-		"line": [3],
+		"line": ["3"],
 		"code": "KNG"
 	},
 	{
 		"id": "23",
 		"name": "Grafton",
-		"line": [3],
+		"line": ["3"],
 		"code": "GRF"
 	},
 	{
 		"id": "24",
 		"name": "New Market",
-		"line": [1,2,3,4],
+		"line": ["1","2","3","4"],
 		"code": "NWM"
 	},
 	{
 		"id": "25",
 		"name": "Parnell",
-		"line": [1,2,3],
+		"line": ["1","2","3"],
 		"code": "PRN"
 	},
 	{
 		"id": "26",
 		"name": "Remuera",
-		"line": [1,2,4],
+		"line": ["1","2","4"],
 		"code": "REM"
 	},
 	{
 		"id": "27",
 		"name": "Greenlane",
-		"line": [1,2,4],
+		"line": ["1","2","4"],
 		"code": "GRN"
 	},
 	{
 		"id": "28",
 		"name": "Ellerslie",
-		"line": [1,2,4],
+		"line": ["1","2","4"],
 		"code": "ELL"
 	},
 	{
 		"id": "29",
 		"name": "Penrose",
-		"line": [1,2,4],
+		"line": ["1","2","4"],
 		"code": "PEN"
 	},
 	{
 		"id": "30",
 		"name": "Te Papapa",
-		"line": [4],
+		"line": ["4"],
 		"code": "TEP"
 	},
 	{
 		"id": "31",
 		"name": "Onehunga",
-		"line": [4],
+		"line": ["4"],
 		"code": "ONE"
 	},
 	{
 		"id": "32",
 		"name": "Otahuhu",
-		"line": [1,2],
+		"line": ["1","2"],
 		"code": "OTA"
 	},
 	{
 		"id": "33",
 		"name": "Middlemore",
-		"line": [1,2],
+		"line": ["1","2"],
 		"code": "MDM"
 	},
 	{
 		"id": "34",
 		"name": "Papatoetoe",
-		"line": [1,2],
+		"line": ["1","2"],
 		"code": "PAP"
 	},
 	{
 		"id": "35",
 		"name": "Puhinui",
-		"line": [1,2,6],
+		"line": ["1","2","6"],
 		"code": "PUH"
 	},
 	{
 		"id": "36",
 		"name": "Manukau",
-		"line": [1,6],
+		"line": ["1","6"],
 		"code": "MAN"
 	},
 	{
 		"id": "37",
 		"name": "Auckland Airport",
-		"line": [6],
+		"line": ["6"],
 		"code": "AIR"
 	},
 	{
 		"id": "38",
 		"name": "Homai",
-		"line": [2],
+		"line": ["2"],
 		"code": "HOM"
 	},
 	{
 		"id": "39",
 		"name": "Manurewa",
-		"line": [2],
+		"line": ["2"],
 		"code": "MNW"
 	},
 	{
 		"id": "40",
 		"name": "Te Mahia",
-		"line": [2],
+		"line": ["2"],
 		"code": "TEM"
 	},
 	{
 		"id": "41",
 		"name": "Takaanini",
-		"line": [2],
+		"line": ["2"],
 		"code": "TAK"
 	},
 	{
 		"id": "42",
 		"name": "Papakura",
-		"line": [2],
+		"line": ["2"],
 		"code": "PAK"
 	}
 ]
